@@ -163,7 +163,7 @@ class _CharactersScreenState extends State<CharactersScreen> {
 
   Widget _buildAppBarTitle() {
     return Text(
-      'characters',
+      'Characters',
       style: TextStyle(color: MyColor.myGrey),
     );
   }
